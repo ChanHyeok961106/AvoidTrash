@@ -1,0 +1,2 @@
+# AvoidTrash
+AvoidTrash python(pygame)
